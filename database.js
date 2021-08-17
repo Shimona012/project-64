@@ -52,7 +52,7 @@ const dictionary = {
   "shimona" : {
     "word" : "shimona",
     "lexicalCategory":"Noun",
-    "definition" : "The name of the creator of this disctionary"
+    "definition" : "The name of the creator of this dictionary"
   }
 }
 
